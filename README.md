@@ -15,9 +15,9 @@
 <div align="center">
 <table><tr><td valign="top" width="25%">
 
-### Frontend
-
 <div align=center>
+
+### Frontend
 
 ![Javacript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,9 +30,9 @@
 
 </td><td valign="top" width="25%">
 
-### Backend
-
 <div align=center>
+
+### Backend
 
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javacript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -46,9 +46,9 @@
 
 </td><td valign="top" width="25%">
 
-### Databases
-
 <div align=center>
+
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -59,9 +59,9 @@
 
 </td><td valign="top" width="25%">
 
-### Future
-
 <div align=center>
+
+### Future
 
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
