@@ -47,6 +47,8 @@ I’m currently **learning**:
 
 ![](https://img.shields.io/badge/Test-Mocha-26733a?style=flat&logo=mocha&logoColor=white)
 
+![](https://img.shields.io/badge/Tools-NPM-26733a?style=flat&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Tools-Postman-26733a?style=flat&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Tools-Git-26733a?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/Tools-GitHub-26733a?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Tools-GitLab-26733a?style=flat&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/Tools-Photoshop-26733a?style=flat&logo=adobe-photoshop&logoColor=white) ![](https://img.shields.io/badge/Tools-Blender-26733a?style=flat&logo=blender&logoColor=white)
+
 <br/>
 
 ## <div align="center">Connect with me</div>
