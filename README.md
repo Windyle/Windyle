@@ -37,7 +37,7 @@ I’m currently **learning**:
 
 <p float="left">
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark" />
-    <img width="300" style="margin-left: 40px" src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_rank=true" />
+    <img width="300" style="margin-left: 40px" src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_rank=true&hide_border=true" />
 </p>
 
 ## 📋 My Skill Set
