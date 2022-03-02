@@ -1,5 +1,7 @@
 ![Header](https://github.com/Windyle/windyle/blob/main/assets/header_image.png?raw=true)
 
+<div align="center">
+
 Hi there! 👋
 
 I'm Alberto, a full-time applications consultant based in Italy and for hobby a full-stack software developer.
@@ -7,36 +9,26 @@ I love to draw and to think to programming as a creative process more than a hea
 
 I'll never stop learning, my mission is to never have a blank to-do list.
 
-## 🎯 Current Activities
+</div>
 
-I’m currently **working** on:
+## <div align="center">🎯 Current Activities</div>
 
-<a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
-</a>
-
-<br/>
-<br/>
-
-I’m currently **learning**:
-
-<a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github />
-</a>
-
-<a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github />
-</a>
+|                                                                                                                   Working                                                                                                                    |                                                                                                                                                                                                                  Learning                                                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;"> <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo /></a> | <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github /> </a> <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github /></a> |
 
 <br/>
-<br/>
 
-## 📊 GitHub Stats
+## <div align="center">📊 GitHub Stats</div>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_border=true" alt="Windyle's github stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&layout=compact&theme=dark&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## 📋 My Skill Set
+<br/>
+
+### <div align="center">📋 Languages, Frameworks, Tools & Abilities 📋</div>
+
+<div align="center">
 
 ![](https://img.shields.io/badge/Code-JavaScript-26733a?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Code-TypeScript-26733a?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Code-CSharp-26733a?style=flat&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/Code-Node.JS-26733a?style=flat&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Code-Electron-26733a?style=flat&logo=electron&logoColor=white) ![](https://img.shields.io/badge/Code-Express.js-26733a?style=flat&logo=express&logoColor=white) ![](https://img.shields.io/badge/Code-Jquery-26733a?style=flat&logo=jquery&logoColor=white) ![](https://img.shields.io/badge/Code-.NET-26733a?style=flat&logo=.net&logoColor=white) ![](https://img.shields.io/badge/Code-PostgreSQL-26733a?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Code-MySQL-26733a?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Code-SQL_Server-26733a?style=flat&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/Code-SQLite-26733a?style=flat&logo=sqlite&logoColor=white)
 
@@ -45,6 +37,8 @@ I’m currently **learning**:
 ![](https://img.shields.io/badge/Test-Mocha-602673?style=flat&logo=mocha&logoColor=white)
 
 ![](https://img.shields.io/badge/Tools-NPM-8a3f1d?style=flat&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Tools-Postman-8a3f1d?style=flat&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Tools-Git-8a3f1d?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/Tools-GitHub-8a3f1d?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Tools-GitLab-8a3f1d?style=flat&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/Tools-Photoshop-8a3f1d?style=flat&logo=adobe-photoshop&logoColor=white) ![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
+
+</div>
 
 <br/>
 
