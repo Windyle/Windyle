@@ -102,6 +102,8 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars"/></div>
 
+<br />
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark" align="center" /></div>
 
 <br/>
