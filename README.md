@@ -13,9 +13,19 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 ## <div align="center">🎯 Current Activities</div>
 
-|                                                                                                                   Working                                                                                                                    |                                                                                                                                                                                                                  Learning                                                                                                                                                                                                                  |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;"> <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo /></a> | <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github /> </a> <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github /></a> |
+<table align="center" width="1200px"><tr>
+<th>Working</th>
+<th>Learning</th>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;"> <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo /></a>
+</td>
+<td width="250px" align="center">
+<a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github /> </a> <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github /></a>
+</td>
+</tr>
+</table>
 
 <br/>
 
