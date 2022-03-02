@@ -13,24 +13,20 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 ## 🎯 Current Activities
 
-<div style="align:center; margin: 0.5rem">
-
 I’m currently **working** on:
 
 <a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
 </a>
 
-</div>
-<div style="align:center; margin: 0.5rem">
+<br/>
+<br/>
 
 I’m currently **learning**:
 
 <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github />
 </a>
-
-</div>
 
 <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github />
@@ -39,11 +35,15 @@ I’m currently **learning**:
 <br/>
 <br/>
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars)
+<a href="https://github.com/Windyle">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=dark" />
+</a>
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark)
+<a href="https://github.com/Windyle">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=windyle&show_icons=true&line_height=27&count_private=true&theme=dark&hide=stars,contribs" alt="Martin's GitHub Stats" />
+</a>
 
 <br/>
 
