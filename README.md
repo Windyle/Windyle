@@ -13,7 +13,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 ## 🎯 Current Activities
 
-<table><tr><td>
+<table width="100%"><tr><td width="50%">
 
 I’m currently **working** on:
 
@@ -21,7 +21,7 @@ I’m currently **working** on:
 <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
 </a>
 
-</td><td>
+</td><td width="50%">
 
 I’m currently **learning**:
 
