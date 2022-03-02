@@ -1,12 +1,19 @@
 ![Header](https://github.com/Windyle/windyle/blob/main/assets/header_image.png?raw=true)
 
-### <div align="center">I'm Alberto, a full-time applications consultant 📱 and full-stack software developer 💻</div>
+<br/>
+
+Hi there! 👋
+
+I'm Alberto, a full-time applications consultant based in Italy and for hobby a full-stack software developer.
+I love to draw and to think to programming as a creative process more than a heavy technical one.
+
+I'll never stop learning, my mission is to never have a blank to-do list.
 
 <br/>
 
-<div align="center">
+## 🎯 Current Activities
 
-🔭 I’m currently working on:
+I’m currently **working** on:
 
 <a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;">
 <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
@@ -16,19 +23,24 @@
 
 <br/>
 
-🌱 I’m currently learning:
+I’m currently **learning**:
 
 <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github />
 </a>
 
-<br/>
+<a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github />
+</a>
 
 <br/>
+<br/>
 
-🖌️ Sometimes I like to draw or paint
+## 📊 Github Stats
 
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars)
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark)
 
 <br/>
 
@@ -97,14 +109,6 @@
 </div>
 
 <br/>
-
-## <div align="center">Github Stats</div>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars"/></div>
-
-<br />
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark" align="center" /></div>
 
 <br/>
 
