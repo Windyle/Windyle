@@ -8,7 +8,13 @@
 
 🔭 I’m currently working on:
 
-![CurrentRepo](https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark)
+<a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
+</a>
+
+<br/>
+
+<br/>
 
 🌱 I’m currently learning:
 
