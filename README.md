@@ -1,7 +1,5 @@
 ![Header](https://github.com/Windyle/windyle/blob/main/assets/header_image.png?raw=true)
 
-<br/>
-
 Hi there! 👋
 
 I'm Alberto, a full-time applications consultant based in Italy and for hobby a full-stack software developer.
