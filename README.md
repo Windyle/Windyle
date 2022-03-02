@@ -9,8 +9,6 @@ I love to draw and to think to programming as a creative process more than a hea
 
 I'll never stop learning, my mission is to never have a blank to-do list.
 
-<br/>
-
 ## 🎯 Current Activities
 
 I’m currently **working** on:
@@ -37,81 +35,17 @@ I’m currently **learning**:
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Windyle">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=dark" />
-</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars)
 
-<a href="https://github.com/Windyle">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=windyle&show_icons=true&line_height=27&count_private=true&theme=dark&hide=stars,contribs" alt="Martin's GitHub Stats" />
-</a>
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark)
 
-<br/>
+## 📋 My Skill Set
 
-## <div align="center">My Skill Set</div>
+![](https://img.shields.io/badge/Code-JavaScript-26733a?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Code-TypeScript-26733a?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Code-CSharp-26733a?style=flat&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/Code-Node.JS-26733a?style=flat&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Code-Electron-26733a?style=flat&logo=electron&logoColor=white) ![](https://img.shields.io/badge/Code-Express.js-26733a?style=flat&logo=express&logoColor=white) ![](https://img.shields.io/badge/Code-Jquery-26733a?style=flat&logo=jquery&logoColor=white) ![](https://img.shields.io/badge/Code-.NET-26733a?style=flat&logo=.net&logoColor=white) ![](https://img.shields.io/badge/Code-PostgreSQL-26733a?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Code-MySQL-26733a?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Code-SQL_Server-26733a?style=flat&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/Code-SQLite-26733a?style=flat&logo=sqlite&logoColor=white)
 
-<div align="center">
-<table><tr><td valign="top" width="25%">
+![](https://img.shields.io/badge/Style-CSS3-26733a?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Style-Bootstrap-26733a?style=flat&logo=bootstrap&logoColor=white)
 
-<div align=center>
-
-### Frontend
-
-![Javacript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34D2E?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-</div>
-
-</td><td valign="top" width="25%">
-
-<div align=center>
-
-### Backend
-
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Javacript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-0769AD?style=for-the-badge&logo=electron&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
-</td><td valign="top" width="25%">
-
-<div align=center>
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-</td><td valign="top" width="25%">
-
-<div align=center>
-
-### Future
-
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-</td></tr></table>
-</div>
-
-<br/>
+![](https://img.shields.io/badge/Test-Mocha-26733a?style=flat&logo=mocha&logoColor=white)
 
 <br/>
 
