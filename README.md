@@ -8,8 +8,6 @@
 
 - 🖌️ Sometimes I like to draw or paint
 
-<br/>
-
 ## <div align="center">My Skill Set</div>
 
 <div align="center">
