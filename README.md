@@ -13,7 +13,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 ## 🎯 Current Activities
 
-<table width="100%"><tr><td width="50%">
+<div style="align:center; margin: 0.5rem">
 
 I’m currently **working** on:
 
@@ -21,7 +21,8 @@ I’m currently **working** on:
 <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
 </a>
 
-</td><td width="50%">
+</div>
+<div style="align:center; margin: 0.5rem">
 
 I’m currently **learning**:
 
@@ -29,7 +30,7 @@ I’m currently **learning**:
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github />
 </a>
 
-</td></tr></table>
+</div>
 
 <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github />
