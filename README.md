@@ -2,11 +2,19 @@
 
 ### <div align="center">I'm Alberto, a full-time applications consultant 📱 and full-stack software developer 💻</div>
 
-- 🔭 I’m currently working on: [Integratio](https://github.com/Windyle/integratio)
+<br/>
 
-- 🌱 I’m currently learning: [Svelte](https://svelte.dev/)
+<div align="center">
 
-- 🖌️ Sometimes I like to draw or paint
+🔭 I’m currently working on: [Integratio](https://github.com/Windyle/integratio)
+
+🌱 I’m currently learning: [Svelte](https://svelte.dev/)
+
+🖌️ Sometimes I like to draw or paint
+
+</div>
+
+<br/>
 
 ## <div align="center">My Skill Set</div>
 
