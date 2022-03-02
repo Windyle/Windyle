@@ -6,9 +6,15 @@
 
 <div align="center">
 
-🔭 I’m currently working on: [Integratio](https://github.com/Windyle/integratio)
+🔭 I’m currently working on:
 
-🌱 I’m currently learning: [Svelte](https://svelte.dev/)
+![CurrentRepo](https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark)
+
+🌱 I’m currently learning:
+
+<a href="https://svelte.dev" target="_blank">
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github style="margin-bottom: 15px; margin-top: -5px;" />
+</a>
 
 🖌️ Sometimes I like to draw or paint
 
@@ -84,7 +90,9 @@
 
 ## <div align="center">Github Stats</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=gotham" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars"/></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark" align="center" /></div>
 
 <br/>
 
