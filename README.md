@@ -35,10 +35,8 @@ I’m currently **learning**:
 
 ## 📊 GitHub Stats
 
-<p float="left">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark" />
-    <img width="300" style="margin-left: 40px" src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_rank=true&hide_border=true" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Windyle&hide_border=true&theme=dark" />
+<img align="center" style="margin-left: 40px" src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_rank=true&hide_border=true" />
 
 ## 📋 My Skill Set
 
