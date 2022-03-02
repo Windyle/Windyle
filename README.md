@@ -12,11 +12,13 @@
 
 🌱 I’m currently learning:
 
-<a href="https://svelte.dev" target="_blank">
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github style="margin-bottom: 15px; margin-top: -5px;" />
+<a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github />
 </a>
 
-<br />
+<br/>
+
+<br/>
 
 🖌️ Sometimes I like to draw or paint
 
