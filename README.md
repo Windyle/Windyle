@@ -29,6 +29,9 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 </tr>
 </table>
 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <br/>
 
 ## <div align="center">📊 GitHub Stats</div>
