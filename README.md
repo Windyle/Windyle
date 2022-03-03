@@ -27,7 +27,10 @@ I'll never stop learning, my mission is to never have a blank to-do list.
     </td>
     <td width="250px" align="center">
       <a href="https://svelte.dev" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github /> </a> <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github />
+        <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=github /> 
+      </a> 
+      <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=github />
       </a>
     </td>
   </tr>
@@ -37,8 +40,20 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 ## <div align="center">📊 GitHub Stats</div>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_border=true" alt="Windyle's github stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&layout=compact&theme=dark&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<table align="center" width="1200px">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/windyle" target="_blank" style="margin-top: -5px;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_border=true" alt="stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/windyle" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=dark&hide_border=true" alt="codes" /> 
+      </a> 
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -57,7 +72,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 <br/>
 
-## <div align="center">💼 Languages, Frameworks, Tools & Abilities</div>
+## <div align="center">💼 My Skill Set </div>
 
 <div align="center">
 
@@ -76,6 +91,10 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Code-SQL_Server-26733a?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Code-SQLite-26733a?style=flat&logo=sqlite&logoColor=white)
 
+<details>
+  <summary>More Skills</summary>
+  
+  <br>
 <!-- Style -->
 
 ![](https://img.shields.io/badge/Style-CSS3-266273?style=flat&logo=css3&logoColor=white)
@@ -95,6 +114,8 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Tools-Photoshop-8a3f1d?style=flat&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
 
+  </details>
+  
 </div>
 
 <br/>
@@ -102,10 +123,10 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ## <div align="center">Connect with me</div>
 
 <div align="center">
-<a href="https://github.com/windyle" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alberto-denti-1b1a581b8" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/windyle" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/alberto-denti-1b1a581b8" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
 </div>
