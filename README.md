@@ -56,7 +56,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 ## <div align="center">💼 Languages, Frameworks, Tools & Abilities</div>
 
-<div align="center">
+<div align="center" width="600px">
 
 ![](https://img.shields.io/badge/Code-JavaScript-26733a?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Code-TypeScript-26733a?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Code-CSharp-26733a?style=flat&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/Code-Node.JS-26733a?style=flat&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Code-Electron-26733a?style=flat&logo=electron&logoColor=white) ![](https://img.shields.io/badge/Code-Express.js-26733a?style=flat&logo=express&logoColor=white) ![](https://img.shields.io/badge/Code-Jquery-26733a?style=flat&logo=jquery&logoColor=white) ![](https://img.shields.io/badge/Code-.NET-26733a?style=flat&logo=.net&logoColor=white) ![](https://img.shields.io/badge/Code-PostgreSQL-26733a?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Code-MySQL-26733a?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Code-SQL_Server-26733a?style=flat&logo=microsoft-sql-server&logoColor=white) ![](https://img.shields.io/badge/Code-SQLite-26733a?style=flat&logo=sqlite&logoColor=white)
 
