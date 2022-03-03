@@ -4,8 +4,7 @@
 
 Hi there! 👋
 
-I'm Alberto, a full-time applications consultant based in Italy and a full-stack software developer.
-I love to draw and to think to programming as a creative process more than a heavy technical one.
+I'm Alberto, a full-time applications consultant based in Italy and a full-stack software developer.<br>I love to draw and to think to programming as a creative process more than a heavy technical one.
 
 I'll never stop learning, my mission is to never have a blank to-do list.
 
