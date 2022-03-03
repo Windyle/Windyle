@@ -38,7 +38,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 <br/>
 
-### <div align="center">📋 Todoist Stats 📋</div>
+## <div align="center">📋 Todoist Stats</div>
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 <br/>
 
-### <div align="center">💼 Languages, Frameworks, Tools & Abilities 💼</div>
+## <div align="center">💼 Languages, Frameworks, Tools & Abilities</div>
 
 <div align="center">
 
