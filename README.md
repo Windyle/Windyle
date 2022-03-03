@@ -29,13 +29,6 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 </tr>
 </table>
 
-<!-- TODO-IST:START -->
-🏆  200 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
 <br/>
 
 ## <div align="center">📊 GitHub Stats</div>
@@ -45,7 +38,24 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 <br/>
 
-### <div align="center">📋 Languages, Frameworks, Tools & Abilities 📋</div>
+### <div align="center">📋 Todoist Stats 📋</div>
+
+<div align="center">
+
+<!-- TODO-IST:START -->
+
+🏆 200 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 2 tasks so far  
+⏳ Longest streak is 0 days
+
+<!-- TODO-IST:END -->
+
+</div>
+
+<br/>
+
+### <div align="center">💼 Languages, Frameworks, Tools & Abilities 💼</div>
 
 <div align="center">
 
