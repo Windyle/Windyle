@@ -62,7 +62,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 <div align="center">
 
 <!-- TODO-IST:START -->
-🏆  2,141 Karma Points           
+🏆  2,177 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 23 tasks so far           
 ⏳  Longest streak is 4 days
