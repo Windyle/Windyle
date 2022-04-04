@@ -116,6 +116,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Tools-GitLab-8a3f1d?style=flat&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Photoshop-8a3f1d?style=flat&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
+![](https://img.shields.io/badge/Tools-Todoist-8a3f1d?style=flat&logo=todoist&logoColor=white)
 
   </details>
   
