@@ -22,7 +22,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
   <tr>
     <td align="center">
       <a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark" alt=repo />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark&hide_border=true" alt=repo />
       </a>
     </td>
     <td width="250px" align="center">
