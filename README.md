@@ -52,7 +52,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
     </td>
     <td align="center">
       <a href="https://github.com/windyle" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=dark&hide_border=true" alt="codes" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=dark&hide_border=true&hide=shell" alt="codes" /> 
       </a> 
     </td>
   </tr>
