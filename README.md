@@ -32,9 +32,6 @@ I'll never stop learning, my mission is to never have a blank to-do list.
       <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=tailwind />
       </a>
-      <a href="https://yarnpkg.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
-        <img src="https://img.shields.io/badge/Yarn-2188B6?logo=yarn&logoColor=white" alt=yarn />
-      </a>
     </td>
   </tr>
 </table>
@@ -110,6 +107,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 <!-- Tools -->
 
 ![](https://img.shields.io/badge/Tools-NPM-8a3f1d?style=flat&logo=npm&logoColor=white)
+  ![](https://img.shields.io/badge/Tools-Yarn-8a3f1d?style=flat&logo=yarn&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Postman-8a3f1d?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-8a3f1d?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GitHub-8a3f1d?style=flat&logo=github&logoColor=white)
@@ -117,6 +115,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Tools-Photoshop-8a3f1d?style=flat&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Todoist-8a3f1d?style=flat&logo=todoist&logoColor=white)
+![](https://img.shields.io/badge/Tools-Trello-8a3f1d?style=flat&logo=trello&logoColor=white)
 
   </details>
   
