@@ -22,7 +22,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
   <tr>
     <td align="center">
       <a href="https://github.com/Windyle/integratio" target="_blank" style="margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=dark&hide_border=true" alt=repo />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=integratio&branch=main&show_icons=true&theme=github_dark&hide_border=true" alt=repo />
       </a>
     </td>
     <td width="250px" align="center">
@@ -47,12 +47,12 @@ I'll never stop learning, my mission is to never have a blank to-do list.
   <tr>
     <td align="center">
       <a href="https://github.com/windyle" target="_blank" style="margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=windyle&count_private=true&theme=dark&show_icons=true&hide=contribs,stars&hide_border=true" alt="stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=windyle&count_private=true&theme=github_dark&show_icons=true&hide=contribs,stars&hide_border=true" alt="stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/windyle" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=dark&hide_border=true&hide=shell" alt="codes" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=github_dark&hide_border=true&hide=shell" alt="codes" /> 
       </a> 
     </td>
   </tr>
