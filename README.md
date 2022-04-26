@@ -28,10 +28,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
     </td>
     <td width="250px" align="center">
       <a href="https://it.reactjs.org/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://img.shields.io/badge/React-4A4A55?style=flat&logo=react&logoColor=62DAFB" alt=react /> 
-      </a> 
-      <a href="https://tailwindcss.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt=tailwind />
+        <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=svelte /> 
       </a>
       <a href="https://sass-lang.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
         <img src="https://img.shields.io/badge/Sass-BF4080?style=flat&logo=sass&logoColor=white" alt=sass />
