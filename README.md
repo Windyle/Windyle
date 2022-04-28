@@ -103,7 +103,7 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 
 <!-- Test -->
 
-![](https://img.shields.io/badge/Test-Mocha-602673?style=flat&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Test-Jest-602673?style=flat&logo=jest&logoColor=white)
 
 <!-- Tools -->
 
