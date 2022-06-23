@@ -101,14 +101,10 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Style-CSS3-266273?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Style-Bootstrap-266273?style=flat&logo=bootstrap&logoColor=white)
 
-<!-- Test -->
-
-![](https://img.shields.io/badge/Test-Jest-602673?style=flat&logo=jest&logoColor=white)
-
 <!-- Tools -->
 
 ![](https://img.shields.io/badge/Tools-NPM-8a3f1d?style=flat&logo=npm&logoColor=white)
-  ![](https://img.shields.io/badge/Tools-Yarn-8a3f1d?style=flat&logo=yarn&logoColor=white)
+![](https://img.shields.io/badge/Tools-Yarn-8a3f1d?style=flat&logo=yarn&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Postman-8a3f1d?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-8a3f1d?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GitHub-8a3f1d?style=flat&logo=github&logoColor=white)
@@ -117,6 +113,8 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Todoist-8a3f1d?style=flat&logo=todoist&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Trello-8a3f1d?style=flat&logo=trello&logoColor=white)
+![](https://img.shields.io/badge/Tools-Pentaho-8a3f1d?style=flat&logo=pentaho&logoColor=white)
+![](https://img.shields.io/badge/Tools-Boomi-8a3f1d?style=flat&logo=boomi&logoColor=white)
 
   </details>
   
