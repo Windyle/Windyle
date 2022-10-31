@@ -28,10 +28,10 @@ I'll never stop learning, my mission is to never have a blank to-do list.
     </td>
     <td width="250px" align="center">
       <a href="https://it.reactjs.org/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" alt=svelte /> 
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=flat&logo=tailwindcss&logoColor=38BDF8" alt=tailwindcss /> 
       </a>
       <a href="https://sass-lang.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
-        <img src="https://img.shields.io/badge/Sass-BF4080?style=flat&logo=sass&logoColor=white" alt=sass />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt=angular />
       </a>
     </td>
   </tr>
@@ -44,32 +44,12 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 <table align="center" width="1200px">
   <tr>
     <td align="center">
-      <a href="https://github.com/windyle" target="_blank" style="margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=windyle&count_private=true&theme=github_dark&show_icons=true&hide=contribs,stars&hide_border=true" alt="stats" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/windyle" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=github_dark&hide_border=true&hide=shell,html,css&layout=compact" alt="codes" /> 
       </a> 
     </td>
   </tr>
 </table>
-
-<br/>
-
-## <div align="center">📋 Todoist Stats</div>
-
-<div align="center">
-
-<!-- TODO-IST:START -->
-🏆  10,513 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 740 tasks so far           
-⏳  Longest streak is 56 days
-<!-- TODO-IST:END -->
-
-</div>
 
 <br/>
 
@@ -111,7 +91,6 @@ I'll never stop learning, my mission is to never have a blank to-do list.
 ![](https://img.shields.io/badge/Tools-GitLab-8a3f1d?style=flat&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Photoshop-8a3f1d?style=flat&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/Tools-Todoist-8a3f1d?style=flat&logo=todoist&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Trello-8a3f1d?style=flat&logo=trello&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Pentaho-8a3f1d?style=flat&logo=pentaho&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Boomi-8a3f1d?style=flat&logo=boomi&logoColor=white)
