@@ -1,110 +1,14 @@
-![Header](https://github.com/Windyle/windyle/blob/main/assets/header_image.png?raw=true)
+# 💫 About Me:
+🔭 I’m currently working on **a QoL VS Code Extension**<br>🌱 I’m currently learning **Nest.js** and **MongoDB**
 
-<div align="center">
 
-Hi there! 👋
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-I'm Alberto, a full-time applications consultant based in Italy and a full-stack software developer.<br>I love to draw and to think to programming as a creative process more than a heavy technical one.
 
-I'll never stop learning, my mission is to never have a blank to-do list.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WIndyle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-</div>
 
-<br/>
-
-## <div align="center">🎯 Current Activities</div>
-
-<table align="center" width="1200px">
-  <tr>
-    <th>Working</th>
-    <th>Learning</th>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Windyle/Blender-Addon-Local-Material-Manager" target="_blank" style="margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=windyle&repo=Blender-Addon-Local-Material-Manager&branch=main&show_icons=true&theme=github_dark&hide_border=true" alt=repo />
-      </a>
-    </td>
-    <td width="250px" align="center">
-      <a href="https://it.reactjs.org/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=flat&logo=tailwindcss&logoColor=38BDF8" alt=tailwindcss /> 
-      </a>
-      <a href="https://sass-lang.com/" target="_blank" style="margin-bottom: 15px; margin-top: -5px;">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt=angular />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## <div align="center">📊 GitHub Stats</div>
-
-<table align="center" width="1200px">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/windyle" target="_blank" style="margin-bottom: 15px; margin-top: -5px;"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyle&theme=github_dark&hide_border=true&hide=shell,html,css&layout=compact" alt="codes" /> 
-      </a> 
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## <div align="center">💼 My Skill Set </div>
-
-<div align="center">
-
-<!-- Code -->
-
-![](https://img.shields.io/badge/Code-JavaScript-26733a?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-26733a?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-CSharp-26733a?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Code-Node.JS-26733a?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-Electron-26733a?style=flat&logo=electron&logoColor=white)
-![](https://img.shields.io/badge/Code-Express.js-26733a?style=flat&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Code-Jquery-26733a?style=flat&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Code-.NET-26733a?style=flat&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Code-PostgreSQL-26733a?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Code-MySQL-26733a?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Code-SQL_Server-26733a?style=flat&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/Code-SQLite-26733a?style=flat&logo=sqlite&logoColor=white)
-
-<details>
-  <summary>More Skills</summary>
-  
-  <br>
-<!-- Style -->
-
-![](https://img.shields.io/badge/Style-CSS3-266273?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Style-Bootstrap-266273?style=flat&logo=bootstrap&logoColor=white)
-
-<!-- Tools -->
-
-![](https://img.shields.io/badge/Tools-NPM-8a3f1d?style=flat&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Tools-Yarn-8a3f1d?style=flat&logo=yarn&logoColor=white)
-![](https://img.shields.io/badge/Tools-Postman-8a3f1d?style=flat&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-8a3f1d?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Tools-GitHub-8a3f1d?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Tools-GitLab-8a3f1d?style=flat&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/Tools-Photoshop-8a3f1d?style=flat&logo=adobe-photoshop&logoColor=white)
-![](https://img.shields.io/badge/Tools-Blender-8a3f1d?style=flat&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/Tools-Trello-8a3f1d?style=flat&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Tools-Pentaho-8a3f1d?style=flat&logo=pentaho&logoColor=white)
-![](https://img.shields.io/badge/Tools-Boomi-8a3f1d?style=flat&logo=boomi&logoColor=white)
-
-  </details>
-  
-</div>
-
-<br/>
-
-## <div align="center">Connect with me</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/alberto-denti-1b1a581b8" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alberto-denti-1b1a581b8) 
