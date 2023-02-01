@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Yoy can find me on</h2>
+<h2 align="left">You can find me on</h2>
 
 ###
 
