@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Where I can be found</h2>
+<h2 align="left">Yoy can find me on</h2>
 
 ###
 
