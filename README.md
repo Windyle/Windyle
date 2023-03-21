@@ -40,7 +40,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,photoshop,blender" height="40" alt="softwares"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,photoshop,blender,github,gitlab" height="40" alt="softwares"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" width="52" alt="confluence logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
