@@ -27,6 +27,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,svelte,tailwind,electron,bootstrap,jquery,materialui,express" height="40" alt="framework-libraries"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="40" width="52" alt="jasmine logo"  />
+  <img src="https://github.com/Windyle/windyle/blob/main/assets/logo-ionic.png?raw=true" height="40" width="40" alt="ionic logo"  />
 </div>
 
 ###
