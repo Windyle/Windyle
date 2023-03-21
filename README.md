@@ -33,8 +33,10 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" height="40" alt="dbms"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+    <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height="40" width="40" alt="microsoftsqlserver logo"    />
 </div>
+
+
 
 ###
 
