@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" height="40" alt="dbms"  />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" height="40" alt="dbms"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
 </div>
 
