@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Nest.js and MongoDB<br>🎯 Goals: Be better at backend development</p><br>💼 Working on a Visual Studio Code extension for tasks automation.
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Nest.js and MongoDB<br>💼 Working on a Visual Studio Code extension for tasks automation.</p>
 
 ###
 
