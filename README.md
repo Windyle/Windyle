@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Nest.js and MongoDB<br>💼 Working on a Visual Studio Code extension for tasks automation.</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Fastify and learning more about Reactive Programming and RxJs<br>💼 Working on a personal project for a home server.</p>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,svelte,tailwind,electron,bootstrap,jquery,materialui,express" height="40" alt="framework-libraries"  />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,svelte,tailwind,electron,bootstrap,jquery,materialui,express" height="40" alt="framework-libraries"  />
   <img src="https://github.com/Windyle/windyle/blob/main/assets/logo-ionic.png?raw=true" height="40" width="40" alt="ionic logo"  />
   <img src="https://github.com/Windyle/windyle/blob/main/assets/logo-capacitor.png?raw=true" height="40" width="40" alt="capacitorjs logo"  />
 </div>
