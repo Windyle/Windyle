@@ -11,22 +11,22 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,cs,bash,powershell,html,sass,css,python" height="40" alt="languages"  />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,cs,bash,powershell,html,sass,css,markdown" height="40" alt="languages"  />
 </div>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular,dotnet,svelte,tailwind,electron,bootstrap,jquery,materialui,express" height="40" alt="framework-libraries"  />
-  <img src="https://github.com/Windyle/windyle/blob/main/assets/logo-ionic.png?raw=true" height="40" width="40" alt="ionic logo"  />
-  <img src="https://github.com/Windyle/windyle/blob/main/assets/logo-capacitor.png?raw=true" height="40" width="40" alt="capacitorjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg" height="40" alt="capacitor logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma" height="40" alt="dbms"  />
-    <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height="40" width="40" alt="microsoftsqlserver logo"    />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,supabase" height="40" alt="dbms"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo" />
 </div>
 
 
@@ -35,7 +35,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,photoshop,blender,github,gitlab" height="40" alt="softwares"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,photoshop,blender,github,gitlab,postman" height="40" alt="softwares"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" width="52" alt="confluence logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
